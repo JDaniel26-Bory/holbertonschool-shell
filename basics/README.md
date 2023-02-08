@@ -8,3 +8,4 @@ The seven command is useful for creates a new directory
 the eigth command is useful for mv a file for a directory
 The nine command is useful for remove a file inside of a directory
 The ten command is useful for remove a directory inside of a directory
+the eleven command is useful for list
