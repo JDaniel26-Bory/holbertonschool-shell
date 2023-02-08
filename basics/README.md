@@ -5,3 +5,4 @@ The four command is for have the long format
 the five command is for show the hidden files
 the six command is useful for enumerate all the files
 The seven command is useful for creates a new directory
+the eigth command is useful for mv a file for a directory
