@@ -12,4 +12,6 @@ Multiple permissions, command chmod 754 hello, Write a script that adds execute 
 
  Everybody!, command chmod ugo+x hello, Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello.
 
+James Bond, command chmod 007 hello, Write a script that sets the permission to the file hello as follows: Owner: no permission at all, Group: no permission at all, Other users: all the permissions
+
 
