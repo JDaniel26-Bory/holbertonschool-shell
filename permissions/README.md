@@ -18,4 +18,6 @@ James Bond, command chmod 007 hello, Write a script that sets the permission to 
 
 12 More directories , command mkdir -m permissions name directory, Create a script that creates a directory called my_dir with permissions 751 in the working directory.
 
+13 Change group, command Write a script that changes the group owner to school for the file hello. The file hello will be in the working directory
 
+14 Owner and group, Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
