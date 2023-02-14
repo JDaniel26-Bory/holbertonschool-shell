@@ -14,4 +14,8 @@ Multiple permissions, command chmod 754 hello, Write a script that adds execute 
 
 James Bond, command chmod 007 hello, Write a script that sets the permission to the file hello as follows: Owner: no permission at all, Group: no permission at all, Other users: all the permissions
 
+11 Directories: Command chmod a+X *, Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
+
+12 More directories , command mkdir -m permissions name directory, Create a script that creates a directory called my_dir with permissions 751 in the working directory.
+
 
