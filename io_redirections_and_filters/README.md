@@ -5,3 +5,4 @@
 4 last lines of a file , tail name file , Display the last 10 lines.
 5 i´d prefer the first 10 lines , head name file.
 6 Line #2 , command head -x file name | tail +x, Write a script that displays the third line of the file iacta
+7 It is a good file that cuts iron without making a noise, Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
