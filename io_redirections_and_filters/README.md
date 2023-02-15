@@ -15,3 +15,5 @@ TASK 13)  Being unique is better than being perfect, Create a script that takes 
 TASK 14)  It must be in that file, Display lines containing the pattern “root” from the file /etc/passwd
 TASK 15) Count that word, Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 TASK 16) What's next?, Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+TASK 17) I hate bins, Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+TASK 18) Letters only please, Display all lines of the file /etc/ssh/sshdconfig starting with a letter.
