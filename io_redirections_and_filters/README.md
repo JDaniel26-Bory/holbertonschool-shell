@@ -3,4 +3,4 @@
 2 let´s display a file , cat name file, Display the content. 
 3 what about 2, cat name file name file , Display the content.
 4 last lines of a file , tail name file , Display the last 10 lines.
-5 i´d prefer the first 10 lines , head name file.
+5 i´d prefer the first 10 lines , head name file..
